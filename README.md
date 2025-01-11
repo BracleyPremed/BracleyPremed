@@ -1,15 +1,14 @@
+
+
 <div align="center">
   <img height="150" src="https://github.com/BracleyPremed/BracleyPremed/blob/main/418621719_883387583516521_9142866640362977598_n.jpg"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
 
 ###
+
+
 
 <h1 align="center">Finally, you've found me! 🎉</h1>
 
@@ -71,7 +70,7 @@
   <a href="https://www.youtube.com/channel/UC9rPL9WH2uHcyiCKfZ2ioCQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="bracley.premed" target="_blank">
+  <a href="https://www.instagram.com/bracley.premed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
